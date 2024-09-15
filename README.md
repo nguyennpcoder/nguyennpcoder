@@ -12,7 +12,7 @@ Fullstack Developer
 -------------------
 
 
-### Profile Views 👁️‍🗨️
+### Visit 👁️‍🗨️
 
 ![Views](https://komarev.com/ghpvc/?username=nguyennpcoder&color=lightgrey)
 
