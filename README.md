@@ -5,7 +5,7 @@ Fullstack Developer
 -------------------
 ### Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=lightgrey)
+![Views](https://komarev.com/ghpvc/?username=nguyennpcoder&color=lightgrey)
 
 
 ### Skills
