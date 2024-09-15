@@ -46,10 +46,7 @@ Fullstack Developer
 ### Stats ⚡
 <div align=center>
   <a href="#" title="nguyennpcoder">
-   ![Languages](https://img.shields.io/badge/JavaScript-40%25-yellow)
-![Languages](https://img.shields.io/badge/Python-30%25-blue)
-![Languages](https://img.shields.io/badge/HTML-20%25-orange)
-![Languages](https://img.shields.io/badge/CSS-10%25-purple)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
   </a>
   <a href="#" title="nguyennpcoder">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=nguyennpcoder&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
