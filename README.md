@@ -5,7 +5,8 @@ Fullstack Developer
 -------------------
 ### Profile Views
 
-![Profile Views](https://camo.githubusercontent.com/12773b0587482ec7b3419a0d4572fa41b7952de9771aa8c2ab4874d3459e6904/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d50726f66696c652b7669657773266d6573736167653d3132333435363738393026636f6c6f723d6c6967687467726579)
+![Profile Views](![](https://komarev.com/ghpvc/?username=your-github-username&color=lightgrey))
+
 
 ### Skills
 
