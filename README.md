@@ -1,7 +1,8 @@
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+repo!+👋;+I'm+NguyennpCoder!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=FDB99B&lines=Welcome+to+repo!+👋;+I'm+NguyennpCoder!;" />
 </h1>
+
     
       
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is nguyennpcoder
@@ -11,12 +12,12 @@ Fullstack Developer
 -------------------
 
 
-### Profile Views
+### Profile Views 👁️‍🗨️
 
 ![Views](https://komarev.com/ghpvc/?username=nguyennpcoder&color=lightgrey)
 
 
-### Skills
+### Skills ✍️
 
 <p align="left">
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
@@ -42,7 +43,7 @@ Fullstack Developer
 
 </p>
 
-### GitHub Stats
+### Stats ⚡
 <div align=center>
   <a href="#" title="nguyennpcoder">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyennpcoder&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
@@ -52,6 +53,6 @@ Fullstack Developer
   </a>
 </div>
 
-### Socials
+### Socials 🌍
 
 <p align="left"> <a href="https://www.linkedin.com/in/nguyennp-coder" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/23448694/nguyennp" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a></p>
