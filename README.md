@@ -10,7 +10,9 @@ Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-078594
 
 
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnguyennpcoder%2Fnguyennpcoder&label=Visit&labelColor=%23000&countColor=%230A0209" />
+  <div style="background-color: white; color: black; padding: 10px; display: inline-block;">
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnguyennpcoder%2Fnguyennpcoder&label=Visit&labelColor=%23000&countColor=%230A0209" alt="Visitor Badge" />
+</div>
   <br><br>
 <!--   <a href="https://dev.to/anmolbaranwal"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" alt="profile of Dev.to with username anmolbaranwal" /></a>
 <!--   <a href="https://www.showwcase.com/anmol-baranwal"><img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/c9e3761a-08c6-404d-9e27-5cd9d1084773"/></a> -->
