@@ -15,7 +15,7 @@ Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-078594
 
 ### 3D Animation of a Person Typing
 
-![3D Typing Animation](link_to_your_gif.gif)
+![3D Typing Animation](https://tinhte.vn/thread/vui-hinh-dong-gif-3d.2417084/)
 
 ### Skills ✍️
 <table align="center" style="border: 2px solid lightblue; padding: 10px;">
