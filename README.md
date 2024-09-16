@@ -5,7 +5,7 @@
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
       
-Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="50">
+Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30">
 =====================================================================================================================================
 
 
@@ -85,7 +85,7 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
   </tr>
 </table>
 
-### Stats <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+### Stats <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="30px" />
 <div align=center>
   <a href="#" title="nguyennpcoder">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyennpcoder&layout=compact" />
