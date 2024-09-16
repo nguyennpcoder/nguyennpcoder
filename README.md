@@ -13,7 +13,7 @@ Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-078594
    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnguyennpcoder%2Fnguyennpcoder&label=Visit&labelColor=%23FFFFFF&countColor=%23FFFFFF" />
 </div>
 
-
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100">
 
 ### Skills <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
 
