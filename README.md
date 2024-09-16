@@ -96,7 +96,7 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
   <img width="47.5%" src="https://github-readme-streak-stats.herokuapp.com?user=nguyennpcoder&theme=prussian&hide_border=true" />
 </p>
 
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
   
 ### Socials 🌍
