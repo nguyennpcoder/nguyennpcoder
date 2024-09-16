@@ -100,7 +100,7 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 </p>
 <br><br>
 
-![Github Streak](https://raw.githubusercontent.com/Potential17/Potential17/master/git%20analysis.png)
+![Github Streak](https://raw.githubusercontent.com/nguyennpcoder/nguyennpcoder/master/git%20analysis.png)
   
 ### Socials 🌍
 <div style="display: flex; padding: 10px;">
