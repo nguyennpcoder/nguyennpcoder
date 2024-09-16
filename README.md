@@ -10,10 +10,12 @@ Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-078594
 
 
 ### Visit 👁️‍🗨️
-<div align="right">
 
 ![Views](https://komarev.com/ghpvc/?username=nguyennpcoder&color=lightgrey)
-</div>
+
+### 3D Animation of a Person Typing
+
+![3D Typing Animation](link_to_your_gif.gif)
 
 ### Skills ✍️
 <table align="center" style="border: 2px solid lightblue; padding: 10px;">
