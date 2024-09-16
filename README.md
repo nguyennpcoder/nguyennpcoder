@@ -90,6 +90,8 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
   <a href="#" title="nguyennpcoder">
     <img width="434" align="right" src="https://github-readme-stats.vercel.app/api?username=nguyennpcoder&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
   </a>
+    ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nguyennpcoder\&layout=compact)
+
 </div>
 
 
