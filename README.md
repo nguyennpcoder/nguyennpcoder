@@ -18,7 +18,7 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
     <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="290">
 </div>
 
-### Skills <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
+### Skills <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" style="vertical-align: middle;">
 
 <table align="center" style="border: 2px solid lightblue; padding: 10px;">
   <tr>
