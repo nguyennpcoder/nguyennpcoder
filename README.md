@@ -90,13 +90,17 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
   <a href="#" title="nguyennpcoder">
     <img width="434" align="right" src="https://github-readme-stats.vercel.app/api?username=nguyennpcoder&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
   </a>
-
 </div>
+
+<br><br>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nguyennpcoder&show_icons=true&theme=prussian&hide_border=true" alt="nguyennpcoder" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=nguyennpcoder&theme=prussian&hide_border=true" />
 </p>
+<br><br>
+
+![Github Streak](https://raw.githubusercontent.com/Potential17/Potential17/master/git%20analysis.png)
   
 ### Socials 🌍
 <div style="display: flex; padding: 10px;">
