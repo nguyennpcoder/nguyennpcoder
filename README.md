@@ -89,13 +89,13 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
   </a>
 </div>
 
-<br><br>
+
 
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=nguyennpcoder&show_icons=true&theme=prussian&hide_border=true" alt="nguyennpcoder" />
   <img width="47.5%" src="https://github-readme-streak-stats.herokuapp.com?user=nguyennpcoder&theme=prussian&hide_border=true" />
 </p>
-<br><br>
+
 
 
   
