@@ -10,7 +10,7 @@ Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-078594
 
 
 <div align="center">
-   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnguyennpcoder%2Fnguyennpcoder&label=Visit&labelColor=%23FFFFFF&countColor=%23000000" />
+   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnguyennpcoder%2Fnguyennpcoder&label=Visit&labelColor=%23FFFFFF&countColor=%23FFFFFF" />
 </div>
 
 
