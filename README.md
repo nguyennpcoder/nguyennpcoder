@@ -3,14 +3,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=61dafb&lines=Welcome+to+repo!+👋;+I'm+NguyennpCoder!;" />
 </h1>
 
+<div align="center">
+   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnguyennpcoder%2Fnguyennpcoder&label=Visit&labelColor=%23FFFFFF&countColor=%23FFFFFF" />
+</div>
       
 Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30">
 =====================================================================================================================================
 
 
-<div align="center">
-   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnguyennpcoder%2Fnguyennpcoder&label=Visit&labelColor=%23FFFFFF&countColor=%23FFFFFF" />
-</div>
+
 
 ![Header](https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif "Header")
 
