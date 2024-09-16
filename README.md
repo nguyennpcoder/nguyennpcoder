@@ -13,7 +13,7 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 </div>
 
 <div style="display: flex; justify-content: center; flex-wrap: nowrap; gap: 5px; overflow: auto;">
- <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="300">
+ <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" height="220">
     <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280">
         <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="280">
 
