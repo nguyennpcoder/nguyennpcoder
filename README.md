@@ -82,7 +82,7 @@ Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-078594
   </tr>
 </table>
 
-### Stats <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="30px" /> &nbsp;
+### Stats <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 <div align=center>
   <a href="#" title="nguyennpcoder">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyennpcoder&layout=compact" />
