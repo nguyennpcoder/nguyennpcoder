@@ -15,8 +15,8 @@ Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-078594
 
 
 
-### Skills ✍️
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
+### Skills <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
+
 <table align="center" style="border: 2px solid lightblue; padding: 10px;">
   <tr>
     <td style="border: 1px solid lightblue; padding: 5px;">
