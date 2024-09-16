@@ -12,7 +12,7 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnguyennpcoder%2Fnguyennpcoder&label=Visit&labelColor=%23FFFFFF&countColor=%23FFFFFF" />
 </div>
 
-<div style="display: flex; flex-wrap: nowrap; gap: 10px; overflow: auto; align="center"">
+<div style="display: flex; flex-wrap: nowrap; gap: 10px; overflow: auto; align="center">
     <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="280">
     <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="260">
     <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="280">
