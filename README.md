@@ -9,10 +9,11 @@ Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-078594
 =====================================================================================================================================
 
 
+<div align="right">
 ### Visit 👁️‍🗨️
 
 ![Views](https://komarev.com/ghpvc/?username=nguyennpcoder&color=lightgrey)
-
+</div>
 
 ### Skills ✍️
 <table align="center" style="border: 2px solid lightblue; padding: 10px;">
