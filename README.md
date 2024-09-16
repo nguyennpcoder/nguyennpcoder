@@ -95,12 +95,12 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 <br><br>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nguyennpcoder&show_icons=true&theme=prussian&hide_border=true" alt="nguyennpcoder" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=nguyennpcoder&theme=prussian&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=nguyennpcoder&show_icons=true&theme=prussian&hide_border=true" alt="nguyennpcoder" />
+  <img width="47.5%" src="https://github-readme-streak-stats.herokuapp.com?user=nguyennpcoder&theme=prussian&hide_border=true" />
 </p>
 <br><br>
 
-![Github Streak](https://raw.githubusercontent.com/nguyennpcoder/nguyennpcoder/master/git%20analysis.png)
+
   
 ### Socials 🌍
 <div style="display: flex; padding: 10px;">
