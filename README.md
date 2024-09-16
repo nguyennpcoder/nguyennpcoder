@@ -1,4 +1,4 @@
-
+<img src="wrapped.png" style="max-width: 100%;" max-width="100%">
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=61dafb&lines=Welcome+to+repo!+👋;+I'm+NguyennpCoder!;" />
 </h1>
@@ -124,3 +124,10 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
  <hr>
  
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
+
+ <tr>
+    <td colspan="2" align="center">
+      <details open><summary>GitHub sponsors card</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.sponsors.svg" alt=""></img></details>
+      <img width="900" height="1" alt="">
+    </td>
+  </tr>
