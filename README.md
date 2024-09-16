@@ -50,16 +50,13 @@ Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-078594
       <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
     </td>
     <td style="border: 1px solid lightblue; padding: 5px;">
-      <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-    </td>
-    <td style="border: 1px solid lightblue; padding: 5px;">
       <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
     </td>
     <td style="border: 1px solid lightblue; padding: 5px;">
       <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
     </td>
     <td style="border: 1px solid lightblue; padding: 5px;">
-      <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redis-colored.svg" width="36" height="36" alt="Redis" /></a>
+      <a href="" target="_blank" rel="noreferrer"><img src="https://banner2.cleanpng.com/20180331/xwe/avh53unx5.webp" width="36" height="36" alt="Redis" /></a>
     </td>
     <td style="border: 1px solid lightblue; padding: 5px;">
       <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
