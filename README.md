@@ -12,10 +12,8 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnguyennpcoder%2Fnguyennpcoder&label=Visit&labelColor=%23FFFFFF&countColor=%23FFFFFF" />
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 5px;">
-    <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" style="height: auto;">
-    <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="350" style="height: auto;">
-</div>
+![Header](https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif "Header")
+
 
 ### Skills <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20" style="vertical-align: middle;">
 
@@ -120,7 +118,9 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
     </a>
   </p>
 </div>
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="360">
+    </p>
  <hr>
  
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
