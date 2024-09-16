@@ -88,7 +88,7 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
     <img width="326" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyennpcoder&layout=compact&theme=react&border_color=61dafb&hide_border=true" />
   </a>
   <a href="#" title="nguyennpcoder">
-    <img width="434" align="right" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=donut)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
+    <img width="434" align="right" src="https://github-readme-stats.vercel.app/api?username=nguyennpcoder&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
   </a>
 
 </div>
