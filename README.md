@@ -62,7 +62,7 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
       <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
     </td>
     <td style="border: 1px solid lightblue; padding: 5px;">
-      <a href="" target="_blank" rel="noreferrer"><img src="https://smarthome.buanet.de/wp-content/uploads/sites/3/2020/12/redis.png" width="36" height="36" alt="Redis" /></a>
+      <a href="" target="_blank" rel="noreferrer"><img src="https://icons8.com/icon/wIbWQHJLwHxp/redis-an-in-memory-data-structure-project-implementing-a-distributed" width="36" height="36" alt="Redis" /></a>
     </td>
     <td style="border: 1px solid lightblue; padding: 5px;">
       <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
