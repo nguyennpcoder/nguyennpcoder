@@ -11,6 +11,16 @@
 </div>
 
 ---
+### 🧑‍💻 About Me
+
+- 🔭 Fullstack Developer with hands-on experience building **5+ web applications** end-to-end
+- ⚡ Core backend in **Java / Spring Boot 3**; frontend in **React, Next.js 14, Angular 17**
+- 🔐 Build secure REST APIs with **JWT/OAuth2, RBAC** and real-time features over **WebSocket**
+- 💳 Integrate multiple payment gateways — **VNPay, MoMo, ZaloPay, SePay** — with async transaction handling
+- 🐳 Containerize apps with **Docker** and deploy services on **Render / Firebase**
+- 🌱 Comfortable transferring REST/API fundamentals to **Node.js & Express**
+- 💡 Care about clean, maintainable, and testable code — owning features from DB schema to UI
+- 📫 Reach me at **nguyennpcoder@gmail.com**
 
 ###  Skills & Technologies
 
@@ -37,16 +47,15 @@
 </p>
 
 ---
-
+<!-- 
 ### 📌 What I Do
 
 *   **Build E-Commerce & Booking Systems**: Developed "Audi Booking" - an end-to-end platform for vehicle configuration and test-drive scheduling.
 *   **Develop REST APIs with Security**: Proficient in Spring Boot & Node.js with JWT Authentication, OAuth2, and Role-Based Access Control (RBAC).
 *   **Integrate Payment Gateways**: Experience integrating VNPay, MoMo, and ZaloPay.
 *   **Containerization & Deployment**: Dockerized applications and deployed services on Render/Firebase.
-
 ---
-<!-- 
+
 ### 📫 Contact me:
 *   **Email**: [nguyennpcoder@gmail.com](mailto:nguyennpcoder@gmail.com)
 *   **LinkedIn**: [nguyennp-coder](https://www.linkedin.com/in/nguyennp-coder)
