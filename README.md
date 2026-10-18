@@ -13,13 +13,14 @@
 ---
 ### 🧑‍💻 About Me
 
-- 🔭 Fullstack Developer with hands-on experience building **5+ web applications** end-to-end
-- ⚡ Core backend in **Java / Spring Boot 3**; frontend in **React, Next.js 14, Angular 17**
-- 🔐 Build secure REST APIs with **JWT/OAuth2, RBAC** and real-time features over **WebSocket**
-- 💳 Integrate multiple payment gateways — **VNPay, MoMo, ZaloPay, SePay** — with async transaction handling
-- 🐳 Containerize apps with **Docker** and deploy services on **Render / Firebase**
-- 🌱 Comfortable transferring REST/API fundamentals to **Node.js & Express**
-- 💡 Care about clean, maintainable, and testable code — owning features from DB schema to UI
+- 🔭 Fullstack Developer with hands-on experience building **5+ production-grade web applications** end-to-end
+- ⚡ Backend in **Java 17 / Spring Boot 3**; frontend in **React, Next.js 14, Angular 17**
+- 🔐 Design secure REST APIs with **JWT/OAuth2, RBAC** and real-time interfaces over **WebSocket (STOMP/SockJS)**
+- 🧩 Build **event-driven architectures** with **Apache Kafka** and **Redis** caching for scalable, high-throughput systems
+- 💳 Integrate multi-gateway payments — **VNPay, MoMo, ZaloPay, SePay** — with async transaction handling
+- 🎨 Craft responsive **SSR/SEO** UIs; own features from DB schema and API design through to production deployment
+- 🐳 Containerize apps with **Docker & Docker Compose**
+- 💡 Passionate about clean, maintainable, testable code and reliable systems for **fintech-scale workloads**
 - 📫 Reach me at **nguyennpcoder@gmail.com**
 
 ###  Skills & Technologies
