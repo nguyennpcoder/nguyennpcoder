@@ -1,5 +1,5 @@
 <h1 align="center">
-    Hi there, I'm Nguyen Phuoc Nguyen (NguyennpCoder) <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30">
+    Hi there, I'm Nguyen Phuoc Nguyen <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30">
 </h1>
 
 <div align="center">
@@ -64,7 +64,7 @@
 *   **StackOverflow**: [nguyennp](https://www.stackoverflow.com/users/23448694/nguyennp)
  -->
 
-### 🌍 Socials
+### 🌍 Connect with me
 <div align="left">
     <a href="https://www.linkedin.com/in/nguyennp-coder" target="_blank" rel="noreferrer" style="margin-right: 10px;">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
