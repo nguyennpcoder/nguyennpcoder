@@ -3,8 +3,8 @@
 <h1>Nguyen Phuoc Nguyen</h1>
 
 <p>
-  <b>Fullstack Developer · Frontend-focused</b><br/>
-  React / Next.js 14 · TypeScript · Java 17 / Spring Boot 3
+  <b>Fullstack Developer Â· Frontend-focused</b><br/>
+  React / Next.js 14 Â· TypeScript Â· Java 17 / Spring Boot 3
 </p>
 
 <p>
@@ -18,20 +18,20 @@
 
 ## About
 
-Frontend-focused fullstack developer. I build React / Next.js 14 interfaces — SSR and SEO, reusable component systems, responsive mobile-first layouts, and real-time UX over WebSocket — on Java 17 / Spring Boot 3 APIs with PostgreSQL, MySQL, Redis, and Docker.
+Frontend-focused fullstack developer. I build React / Next.js 14 interfaces â SSR and SEO, reusable component systems, responsive mobile-first layouts, and real-time UX over WebSocket â on Java 17 / Spring Boot 3 APIs with PostgreSQL, MySQL, Redis, and Docker.
 
 Across five production projects I have owned features from database schema and API design through to shipped UI, including JWT / OAuth2 access control, Kafka event flows, and multi-gateway payments (VNPay, MoMo, ZaloPay, SePay).
 
-Based in Ho Chi Minh City · open to junior fullstack roles.
+Based in Ho Chi Minh City Â· open to junior fullstack roles.
 
 ## Featured projects
 
 | Project | Stack | Links |
 | :-- | :-- | :-- |
-| **[Airbnb Booking Platform](https://airbnb-homestay-frontend.vercel.app/)**<br/><sub>Homestay booking with real-time chat, availability conflict detection, and QR check-in.</sub> | `Next.js 14` `Spring Boot 3` `WebSocket` `JWT` | [Frontend](https://github.com/nguyennpcoder/airbnb-homestay-frontend) · [Backend](https://github.com/nguyennpcoder/airbnb-homestay-backend) |
-| **[Audi Service Booking](https://audivn.web.app/)**<br/><sub>Service scheduling with slot conflicts, PDF invoices, and a revenue dashboard.</sub> | `React` `Spring Boot 3` `Redis` `MySQL` | [Frontend](https://github.com/nguyennpcoder/AudiFE) · [Backend](https://github.com/nguyennpcoder/AudiBE) |
+| **[Airbnb Booking Platform](https://airbnb-homestay-frontend.vercel.app/)**<br/><sub>Homestay booking with real-time chat, availability conflict detection, and QR check-in.</sub> | `Next.js 14` `Spring Boot 3` `WebSocket` `JWT` | [Frontend](https://github.com/nguyennpcoder/airbnb-homestay-frontend) Â· [Backend](https://github.com/nguyennpcoder/airbnb-homestay-backend) |
+| **[Audi Service Booking](https://audivn.web.app/)**<br/><sub>Service scheduling with slot conflicts, PDF invoices, and a revenue dashboard.</sub> | `React` `Spring Boot 3` `Redis` `MySQL` | [Frontend](https://github.com/nguyennpcoder/AudiFE) Â· [Backend](https://github.com/nguyennpcoder/AudiBE) |
 | **[Apple-Style Storefront](https://host-apple.web.app/)**<br/><sub>E-commerce storefront with a shared component library and Redis-cached catalog.</sub> | `React` `Spring Boot` `OAuth2` `Docker` | [Live demo](https://host-apple.web.app/) |
-| **[Book Views Online](https://book-online-fe.vercel.app/)**<br/><sub>Event-driven e-commerce ordering flow built for throughput.</sub> | `Spring Boot 3` `Kafka` `Redis` `Angular 17` | [Frontend](https://github.com/nguyennpcoder/BookOnlineFE) · [Backend](https://github.com/nguyennpcoder/BookOnlineBE) |
+| **[Book Views Online](https://book-online-fe.vercel.app/)**<br/><sub>Event-driven e-commerce ordering flow built for throughput.</sub> | `Spring Boot 3` `Kafka` `Redis` `Angular 17` | [Frontend](https://github.com/nguyennpcoder/BookOnlineFE) Â· [Backend](https://github.com/nguyennpcoder/BookOnlineBE) |
 
 ## Stack
 
@@ -65,17 +65,6 @@ Based in Ho Chi Minh City · open to junior fullstack roles.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyennpcoder&layout=compact&langs_count=6&hide=html,css&theme=github_dark&hide_border=true&bg_color=00000000" />
-    <img height="160" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyennpcoder&layout=compact&langs_count=6&hide=html,css&theme=default&hide_border=true&bg_color=00000000" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=nguyennpcoder&theme=github-dark-blue&hide_border=true&background=00000000" />
-    <img height="160" alt="Contribution streak" src="https://streak-stats.demolab.com?user=nguyennpcoder&theme=default&hide_border=true&background=00000000" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nguyennpcoder/nguyennpcoder/output/github-contribution-grid-snake-dark.svg" />
     <img alt="Contribution snake" src="https://raw.githubusercontent.com/nguyennpcoder/nguyennpcoder/output/github-contribution-grid-snake.svg" />
   </picture>
@@ -84,5 +73,5 @@ Based in Ho Chi Minh City · open to junior fullstack roles.
 ---
 
 <p align="center">
-  <sub>Building reliable products end-to-end · <a href="https://nguyennpcoder.is-a.dev">nguyennpcoder.is-a.dev</a></sub>
+  <sub>Building reliable products end-to-end Â· <a href="https://nguyennpcoder.is-a.dev">nguyennpcoder.is-a.dev</a></sub>
 </p>
