@@ -7,11 +7,9 @@
   Ho Chi Minh City, Vietnam
 </p>
 
-<p>
-  <a href="https://nguyennpcoder.is-a.dev">Portfolio</a> &middot;
-  <a href="https://www.linkedin.com/in/nguyennp-coder/">LinkedIn</a> &middot;
-  <a href="mailto:nguyennpcoder@gmail.com">Email</a>
-</p>
+  <a href="https://nguyennpcoder.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/nguyennp-coder/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:nguyennpcoder@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email:" /></a>
 
 </div>
 
@@ -21,7 +19,7 @@ I'm a fullstack developer based in Ho Chi Minh City. I like the part of the job 
 
 Across five products &mdash; mostly booking platforms and e-commerce &mdash; my strongest work is on the frontend: interfaces, state, and the small details that make a product feel finished. Most of these I owned from database schema to deployed UI, which taught me to make decisions with the whole system in mind.
 
-I'm looking for a junior fullstack role on a team that ships often, reviews code seriously, and expects engineers to understand more than their own layer. I ask questions early, write down what I learn, and finish what I start.
+I'm looking for a fullstack role on a team that ships often, reviews code seriously, and expects engineers to understand more than their own layer. I ask questions early, write down what I learn, and finish what I start.
 
 ## Stack
 
