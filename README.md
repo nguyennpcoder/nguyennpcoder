@@ -1,25 +1,23 @@
-<div align="center">
+<div align="left">
 
-<h1>Nguyen Phuoc Nguyen</h1>
-
-<p>
-  <b>Fullstack Developer &middot; Frontend-focused</b><br/>
-  Ho Chi Minh City, Vietnam
-</p>
-
-  <a href="https://nguyennpcoder.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/nguyennp-coder/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:nguyennpcoder@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email:" /></a>
-
+# Hey, I'm Nguyen 👋
 </div>
 
 ## About
 
-I'm a fullstack developer based in Ho Chi Minh City. I like the part of the job where a vague requirement becomes something people can actually use: a clear interface, an API that behaves, and a release that doesn't break on Monday.
+I'm an early-career fullstack developer based in Ho Chi Minh City, with a frontend focus and hands-on experience building booking and e-commerce products. I'm open to internship, fresher, and junior opportunities where I can contribute across the stack, learn from experienced engineers, and grow by shipping reliable, user-focused features.
 
-Across five products &mdash; mostly booking platforms and e-commerce &mdash; my strongest work is on the frontend: interfaces, state, and the small details that make a product feel finished. Most of these I owned from database schema to deployed UI, which taught me to make decisions with the whole system in mind.
+I enjoy turning ambiguous requirements into reliable, easy-to-use features—from shaping the interface and managing application state to designing APIs and working with the data behind them. Across five products, I've contributed to work spanning database design through deployment, which has helped me understand how decisions in one layer affect the rest of a system.
 
-I'm looking for a fullstack role on a team that ships often, reviews code seriously, and expects engineers to understand more than their own layer. I ask questions early, write down what I learn, and finish what I start.
+I'm looking to grow on a collaborative engineering team where I can contribute across the stack, learn from thoughtful code reviews, and take ownership of well-scoped features from implementation through release.
+
+## What I care about
+
+- **User-focused interfaces:** making interactions clear, consistent, and accessible.
+- **Maintainable engineering:** writing code that teammates can understand, review, and extend.
+- **End-to-end ownership:** considering how UI, APIs, data, and deployment work together.
+- **Continuous learning:** asking questions early, applying feedback, and improving with each release.
+- **Reliable delivery:** testing changes and paying attention to the details that make features dependable.
 
 ## Stack
 
@@ -49,8 +47,16 @@ I'm looking for a fullstack role on a team that ships often, reviews code seriou
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
----
+## Reach me
 
-<p align="center">
-  <sub>Open to junior fullstack roles &middot; <a href="https://nguyennpcoder.is-a.dev">nguyennpcoder.is-a.dev</a></sub>
+<p align="left">
+  <a href="mailto:nguyennpcoder@gmail.com">
+    <img src="https://img.shields.io/static/v1?label=Email&message=nguyennpcoder%40gmail.com&color=EA4335&labelColor=555&style=flat&logo=gmail&logoColor=white" alt="Email: nguyennpcoder@gmail.com" />
+  </a>
+  <a href="https://www.linkedin.com/in/nguyennp-coder/">
+    <img src="https://img.shields.io/static/v1?label=LinkedIn&message=Nguyen%20Phuoc%20Nguyen&color=0A66C2&labelColor=555&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn: Nguyen Phuoc Nguyen" />
+  </a>
+  <a href="https://nguyennpcoder.is-a.dev">
+    <img src="https://img.shields.io/static/v1?label=Portfolio&message=nguyennpcoder.is-a.dev&color=111111&labelColor=555&style=flat&logo=vercel&logoColor=white" alt="Portfolio: nguyennpcoder.is-a.dev" />
+  </a>
 </p>
