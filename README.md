@@ -3,8 +3,6 @@
 # Hey, I'm Nguyen 👋
 </div>
 
-## About
-
 I'm an early-career fullstack developer based in Ho Chi Minh City, with a frontend focus and hands-on experience building booking and e-commerce products. I'm open to internship, fresher, and junior opportunities where I can contribute across the stack, learn from experienced engineers, and grow by shipping reliable, user-focused features.
 
 I enjoy turning ambiguous requirements into reliable, easy-to-use features—from shaping the interface and managing application state to designing APIs and working with the data behind them. Across five products, I've contributed to work spanning database design through deployment, which has helped me understand how decisions in one layer affect the rest of a system.
